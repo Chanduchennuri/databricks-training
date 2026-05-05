@@ -20,11 +20,11 @@
 👨‍💻 <b>Chennuri Chandra Sekhar</b><br>
 🎓 B.Tech – Artificial Intelligence & Machine Learning (2024–2027)<br>
 🏫 Vishnu Institute of Technology<br>
-📍 Hyderabad, India
+📍 Bhimavaram, India
 </p>
 
 <p>
-I am a Software Engineer and AI Developer with strong experience in 
+I am a Software enthusiast and AI Developer with strong experience in 
 <b>Data Engineering, ETL pipelines, and Cloud Analytics</b>.  
 Currently undergoing <b>Databricks Data Engineering Training</b> to deepen my expertise in 
 big data processing, scalable pipelines, and analytics systems.
